@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { ChartData } from 'src/utils/chartData';
+import { DataScraperService } from './data-scraper/data-scraper.service';
 
 @Component({
   selector: 'app-root',
