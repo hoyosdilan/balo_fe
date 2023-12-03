@@ -5,7 +5,7 @@ import { DataScraperService } from './data-scraper/data-scraper.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.sass']
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = 'balo_fe';

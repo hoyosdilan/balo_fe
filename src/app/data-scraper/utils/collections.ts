@@ -8,5 +8,9 @@ export enum collections {
   BALOTA_SINCE_LAST_TRADITIONAL = 'balotaSinceLastTraditional',
   BALOTA_SINCE_LAST_REVANCHA = 'balotaSinceLastRevancha',
   RESULTS_TRADITIONAL = 'resultsTraditional',
-  RESULTS_REVANCHA = 'resultsRevancha'
+  RESULTS_REVANCHA = 'resultsRevancha',
+  RESULTS_AVERAGE_OF_NOT_SHOWING_UP_TRADITIONAL = 'resultsAverageOfNotShowingUpTraditional',
+  RESULTS_AVERAGE_OF_NOT_SHOWING_UP_REVANCHA = 'resultsAverageOfNotShowingUpRevancha',
+  BALOTA_AVERAGE_OF_NOT_SHOWING_UP_TRADITIONAL = 'balotaAverageOfNotShowingUpTraditional',
+  BALOTA_AVERAGE_OF_NOT_SHOWING_UP_REVANCHA = 'balotaAverageOfNotShowingUpRevancha',
 };
